@@ -1,9 +1,4 @@
 # SecurityFoscusOnline2023 上課資訊
-# 課程宗旨:
-- 讓全台灣的學生都有機會快速學到底下基本技術
-  - 一點點的資安與CTF技術
-  - 一點點的LINUX
-  - 一點點的Python程式開發與在資安的應用
 
 # 上課所使用的平台
 - [立馬點選加入線上上課平台(Google Meet)上課去](https://meet.google.com/anw-awov-hsw)
