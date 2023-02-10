@@ -5,25 +5,20 @@
   - 一點點的LINUX
   - 一點點的Python程式開發與在資安的應用
 
-# SecurityFoscusOnline2023課程模組
-- 從CTF實戰學習資訊安全測試
-  - A1_MyFirstSecurity資安入門的第一堂課
-  - A2_Linux資安技術入門
-  - A3_Python程式與資安應用入門 
-
-
-# 上課平台
+# 上課所使用的平台
 - [線上上課(Google Meet)](https://meet.google.com/anw-awov-hsw)
-- [CTF平台解題(平常沒開放~)](https://120.114.62.215/)
-- [Discord課程討論區：https://discord.gg/fdp6d699](https://discord.gg/fdp6d699)
-- 上課簽到
-  - [2/11 簽到簿](https://forms.gle/TjzKdoCwXRt9wTzb7)
-  - [2/12 簽到簿](https://forms.gle/TCjCFFqQ7ayccNLN8)
-- [問卷調查](https://forms.gle/WT1vQ3x7HC9FD7Gu6)
-  - (最後填寫!一定要填寫) 
-
+- [CTF平台解題(平常沒開放~只有上課期間才會開放)](https://120.114.62.215/)
+- [Discord課程討論區：https://discord.gg/yWCfDtQjzJ 同學互相討論區](https://discord.gg/yWCfDtQjzJ)
+  - 嚴格禁止上傳答案(違背者取消證書)
+- 上課簽到簿:請每日上課不要遲到
+  - [2/11 簽到簿](https://forms.gle/wvuy8prixdNtkY2z9)
+  - [2/12 簽到簿](https://forms.gle/zhP9Q5EYPzzRxvB88)
+- [問卷調查](https://forms.gle/YUYmUJ16YFjvC8te6)
+  - (最後填寫!一定要填寫,不然沒有證書) 
+  - 問卷調查須填寫CTF註冊的使用者ID 以供驗證解題數作為通過課程考核的依據
 
 # 開場白與上課模式
+
 # 第一天上課時程
 ## 早上 A1_MyFirstSecurity資安入門的第一堂課
 - CTF 入門:透過參與CTF搶旗大賽學習資安實務 [線上課程]
@@ -34,14 +29,15 @@
   - 自己動手解{隱寫術101::STEG2_Secret in PDF}
 - 網站安全初體驗 == > Web101
   - Web101::Web-1:source code(隱藏在註解裡的FLAG)
-  - Web101::Web-2:Easy_Robots.txt(Robot.txt的奧秘)
-  - Web101::web-3:Robots.txt
+  - Web101::Web-2:Easy_Robots.txt(Robot.txt的奧秘1)
+  - Web101::web-3:Robots.txt(Robot.txt的奧秘2)[自行完成|無提供解答][完成編碼與解碼問題時再回來解此題]
   - Web101::web-4:Curl-1:URL redirection的破招 [[線上解答]](./A1_MyFirstSecurity資安入門的第一堂課/web-4解答.md) [[YOUYUBE教學錄影]](https://youtu.be/Lwyp3tv66KQ)
   - Web101::web-5:HTTP method (HTTP method的奧義)[[線上解答]](./A1_MyFirstSecurity資安入門的第一堂課/web-5解答.md)
 - 編碼與解碼 == >  編碼101
   - Ascii 編碼與解碼[線上課程] {編碼101:Ascii}
-  - 請完成 {編碼101}另外四題
-  - 【自行完成】編碼101:第一堂Unicode
+  - 請完成 {編碼101}另外題目
+  - 【自行完成】{編碼101:第一堂Unicode}
+  - BASE64原理說明
 - 古典密碼學之破密分析 == > Crypto101  
   - 善用線上工具進行破密分析
   - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}
@@ -55,8 +51,6 @@
   - 【頻率分析法】的破密技術{Crypto101::CRY6}
   - 【自行完成】{Crypto101::CRY7_Rail Fence Cipher}
   - 【自行完成】{Crypto101::CRY8_ROT47}
-
-
 ## 下午 A2_Linux資安技術入門
 - 預先作業
   - 首先完成你的 [github](https://github.com/) 申請
