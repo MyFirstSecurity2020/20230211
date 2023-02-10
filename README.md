@@ -2,9 +2,11 @@
 
 # 上課所使用的平台
 - [立馬點選加入線上上課平台(Google Meet)上課去](https://meet.google.com/anw-awov-hsw)
+  - 8:50開放,9:20關閉連結(遲到 ==>就不要參加)
+  - 參與的觀摩教師可自行安排登入時間,也請聯繫小編
 - [CTF平台解題(平常沒開放~只有上課期間才會開放)](https://120.114.62.215/)
 - [Discord課程討論區：https://discord.gg/yWCfDtQjzJ 同學互相討論區](https://discord.gg/yWCfDtQjzJ)
-  - 嚴格禁止上傳答案(違背者取消證書)
+  - 嚴格禁止上傳答案(違背者取消證書|且不得參與後續研習活動)
 - 上課簽到簿:請每日上課不要遲到
   - [2/11 簽到簿](https://forms.gle/wvuy8prixdNtkY2z9)
   - [2/12 簽到簿](https://forms.gle/zhP9Q5EYPzzRxvB88)
