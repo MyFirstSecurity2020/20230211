@@ -6,7 +6,7 @@
   - 一點點的Python程式開發與在資安的應用
 
 # 上課所使用的平台
-- [線上上課(Google Meet)](https://meet.google.com/anw-awov-hsw)
+- [立馬點選加入線上上課平台(Google Meet)上課去](https://meet.google.com/anw-awov-hsw)
 - [CTF平台解題(平常沒開放~只有上課期間才會開放)](https://120.114.62.215/)
 - [Discord課程討論區：https://discord.gg/yWCfDtQjzJ 同學互相討論區](https://discord.gg/yWCfDtQjzJ)
   - 嚴格禁止上傳答案(違背者取消證書)
@@ -15,7 +15,7 @@
   - [2/12 簽到簿](https://forms.gle/zhP9Q5EYPzzRxvB88)
 - [問卷調查](https://forms.gle/YUYmUJ16YFjvC8te6)
   - (最後填寫!一定要填寫,不然沒有證書) 
-  - 問卷調查須填寫CTF註冊的使用者ID 以供驗證解題數作為通過課程考核的依據
+  - 問卷調查須正確填寫CTF註冊的使用者ID 以供驗證解題數作為通過課程考核的依據
 
 # 開場白與上課模式
 
