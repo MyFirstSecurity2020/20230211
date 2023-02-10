@@ -43,9 +43,13 @@
   - Web101::web-5:HTTP method (HTTP method的奧義)[[線上解答]](./A1_MyFirstSecurity資安入門的第一堂課/web-5解答.md)
 - 編碼與解碼 == >  編碼101
   - Ascii 編碼與解碼[線上課程] {編碼101:Ascii}
-  - 請完成 {編碼101}另外題目
+  - 【自行完成】{編碼101:Base64}
+  - 【自行完成】{編碼101:Base32}
+  - 【自行完成】{編碼101:Morse code}
+  - 【自行完成】{編碼101:第一堂base64編碼}
   - 【自行完成】{編碼101:第一堂Unicode}
-  - BASE64原理說明
+  - BASE64原理說明 [[中文Wiki的說明]](https://zh.wikipedia.org/wiki/Base64)
+  - 【自行完成】Base32原理說明
 - 古典密碼學之破密分析 == > Crypto101  
   - 善用線上工具進行破密分析
   - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}
