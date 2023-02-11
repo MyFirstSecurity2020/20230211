@@ -95,7 +95,7 @@
   - 2.網路鑑識分析第一步:使用file | strings | grep 指令進行分析[解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/tree/main/A2_Linux%E8%B3%87%E5%AE%89%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80)
     - Network101::NET1
     - Network101::NET2
-  - 3.wireshark封包分析 == >HTTP Basic Authentication(認證)封包{Network101::NET3} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A2_Linux%E8%B3%87%E5%AE%89%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80/3_%E4%BD%BF%E7%94%A8wireshark%E5%88%86%E6%9E%90HTTP%20Basic%20Authentication(%E8%AA%8D%E8%AD%89)%E5%B0%81%E5%8C%85.md)
+  - 3.wireshark封包分析 == >HTTP Basic Authentication(認證)封包{Network101::NET3} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A2_Linux%E8%B3%87%E5%AE%89%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80/3_%E4%BD%BF%E7%94%A8wireshark%E5%88%86%E6%9E%90HTTP%20Basic%20Authentication(%E8%AA%8D%E8%AD%89)%E5%B0%81%E5%8C%85.md) [[YOUTUBE教學影片]](https://youtu.be/IH3Q7jdDX5s)
   - 4.wireshark封包分析 == >檢視出user使用的瀏覽器版本號{Network101::NET4} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A2_Linux%E8%B3%87%E5%AE%89%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80/3_Linux%20%E9%91%91%E8%AD%98%E5%88%86%E6%9E%90%E5%85%A5%E9%96%80/4_%E4%BD%BF%E7%94%A8wireshark%E6%AA%A2%E8%A6%96%E5%87%BAuser%E4%BD%BF%E7%94%A8%E7%9A%84%E7%80%8F%E8%A6%BD%E5%99%A8%E7%89%88%E6%9C%AC%E8%99%9F.md)
   - 5.wireshark封包分析 == >UDP 封包中的FLAG{Network101::NET5}
 # 第二天上課時程 A3_Python程式與資安應用入門 
