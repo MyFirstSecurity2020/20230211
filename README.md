@@ -102,6 +102,9 @@
 ## 早上: Python 快速上手
 - 1.開發環境與基本輸入與輸出 
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片]](https://youtu.be/9Doo0hgbpow)
+    - 在Windows 平台開發 python程式
+    - 在Linux 平台開發 python程式
+    - 在Google Colab雲端平台開發 python程式
   - 基本輸入與輸出 格式化輸出 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/1_基本輸入與輸出.md)  
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片]](https://youtu.be/zCfVPuJWRg8) 
 - 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [YOUTUBE預錄影片]() 
@@ -112,11 +115,11 @@
 - 1.使用Python求解編碼與解碼問題
   - 👍使用Python程式與內建函數進行ASCII的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
   - 👍使用Python標準函式庫進行BASE64的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
-  - 編碼102_Internetwache CTF 2016_The hidden message [解答]()
-  - 編碼102:SECCON CTF 2014: Easy Cipher [解答]()
+  - 編碼102_Internetwache CTF 2016_The hidden message [解答](./Python/B_Python資安應用入門/2_Python解碼器/3_編碼102_Internetwache CTF 2016 _ The hidden message.md)
+  - 編碼102:SECCON CTF 2014: Easy Cipher [解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
   - 【自行完成】{Crypto102::CRY11_PythonCrypto} [解答]()
-  - 使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [解答]()
+  - 👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [解答]()
   - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/3_Python%E5%8F%A4%E5%85%B8%E7%A0%B4%E5%AF%86%E6%B3%95/2_%E4%BD%BF%E7%94%A8Python%E6%B1%82%E8%A7%A3affine-cipher.md)
 - 3.使用Python求解PPC(Professional Program Code)問題
   - 👍PPC(Professional Program Code)之使用 nc 遠端連線{PPC101::PPC1_hello world} [線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/4_Python%20%20PPC%E5%AF%A6%E6%88%B0%E6%8A%80/PPC(Professional%20Program%20Code)%E4%B9%8B%E4%BD%BF%E7%94%A8%20nc%20%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%7BPPC101::PPC1_hello%20world%7D.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
