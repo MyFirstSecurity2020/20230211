@@ -53,7 +53,7 @@
   - 【自行完成】Base32原理說明
 - 古典密碼學之破密分析 == > Crypto101  
   - 善用線上工具進行破密分析
-  - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}
+  - 凱薩密碼 與【暴力破解法】{Crypto101::CRY1}  [[YOUYUBE教學錄影]](https://youtu.be/GY34Ewh6EoQ)
   - 【自行完成】{Crypto101::CRY2_凱撒密碼part2}
   - 【自行完成】{Crypto101::CRY3_ROT 13} 
   - 密碼棒加解密 Scytale [英文WIKI說明](https://en.wikipedia.org/wiki/Scytale) [中文WIKI的說明](https://zh.m.wikipedia.org/zh-tw/%E5%AF%86%E7%A2%BC%E6%A3%92)
