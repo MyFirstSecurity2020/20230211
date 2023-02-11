@@ -94,8 +94,8 @@
   - 2.網路鑑識分析第一步:使用file | strings | grep 指令進行分析[線上教材](./Linux/3_2_網路鑑識分析第一步_使用linux基本指令進行分析.md)
     - Network101::NET1
     - Network101::NET2
-  - 3.wireshark封包分析 == >HTTP Basic Authentication(認證)封包{Network101::NET3} [線上教材](./Linux/3_3_使用wireshark分析HTTPBasicAuthentication.md) [[YOUTUBE教學影片]](https://youtu.be/IH3Q7jdDX5s)
-  - 4.wireshark封包分析 == >檢視出user使用的瀏覽器版本號{Network101::NET4} [線上教材](./Linux/3_4_使用wireshark檢視出user使用的瀏覽器版本號.md) [[YOUYUBE錄影]](https://youtu.be/GnufKfXOSG4)
+  - 3.HTTP Basic Authentication(認證)封包分析{Network101::NET3} [線上教材](./Linux/3_3_使用wireshark分析HTTPBasicAuthentication.md) [[YOUTUBE教學影片]](https://youtu.be/IH3Q7jdDX5s)
+  - 4.HTTP封包分析之檢視出user使用的瀏覽器版本號{Network101::NET4} [線上教材](./Linux/3_4_使用wireshark檢視出user使用的瀏覽器版本號.md) [[YOUYUBE錄影]](https://youtu.be/GnufKfXOSG4)
 
 # 第二天上課時程 A3_Python程式與資安應用入門 
 - 學習步驟
@@ -115,6 +115,7 @@
   - 基本輸入與輸出 格式化輸出 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/1_基本輸入與輸出.md)  
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片]](https://youtu.be/zCfVPuJWRg8) 
 - 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [YOUTUBE預錄影片]() 
+  - [] Python101題目IF
 - 4.廻圈(loop) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY) 
 - 5.函數(function) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
 
