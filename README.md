@@ -107,6 +107,9 @@
     - 推薦可以先看完有👍記號的內容
     - 要參加暑假 Summer camp的同學一定要學好 3.使用Python求解PPC(Professional Program Code)問題
 ## 早上: Python 快速上手
+- 本課程是針對完全沒有開發過程式(或是沒學過Python程式)的同學所設計的課程
+- 要在三小時內學到基本的python程式能力
+- 下午的課程則是使用python解CTF題目(相對而言比較深一點)
 - 1.開發環境與基本輸入與輸出 
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片(35分鐘左右)]](https://youtu.be/9Doo0hgbpow)
     - 在Windows 平台開發 python程式:使用notepad++開發  [下載這個notepad++版本Download 64-bit x64](https://notepad-plus-plus.org/downloads/v8.4.9/)
