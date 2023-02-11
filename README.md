@@ -134,8 +134,8 @@
 - 1.使用Python求解編碼與解碼問題
   - 👍使用Python程式與內建函數進行ASCII的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
   - 👍使用Python標準函式庫進行BASE64的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
-  - 編碼102_Internetwache CTF 2016_The hidden message [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/3_編碼102_Internetwache CTF 2016 _ The hidden message.md)
-  - 編碼102:SECCON CTF 2014: Easy Cipher [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
+  - 編碼102_Internetwache CTF 2016_The hidden message [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/3_編碼102_Internetwache%20CTF%202016%20_%20The%20hidden%20message.md)
+  - 編碼102:SECCON CTF 2014: Easy Cipher [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON%20CTF%202014_%20Easy%20Cipher.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
   - 【自行完成】{Crypto102::CRY11_PythonCrypto} 
   -  👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [線上解答]()
