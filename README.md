@@ -42,7 +42,7 @@
   - 【自行完成】Web101::web-3:Robots.txt(Robot.txt的奧秘2)[無提供解答][完成編碼與解碼問題時再回來解此題]
   - Web101::web-4:Curl-1:URL redirection的破招 [[線上解答]](./A1_MyFirstSecurity資安入門的第一堂課/web-4解答.md) [[YOUTUBE教學錄影]](https://youtu.be/Lwyp3tv66KQ)
   - Web101::web-5:HTTP method (HTTP method的奧義)[[線上解答]](./A1_MyFirstSecurity資安入門的第一堂課/web-5解答.md)
-- 編碼與解碼 == >  編碼101  [[YOUTUBE教學錄影]] (https://youtu.be/fu2jgb4SN7U)
+- 編碼與解碼 == >  編碼101  [[YOUTUBE教學錄影]](https://youtu.be/fu2jgb4SN7U)
   - Ascii 編碼與解碼[線上課程] {編碼101:Ascii}
   - 【自行完成】{編碼101:Base64}
   - 【自行完成】{編碼101:Base32}
