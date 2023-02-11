@@ -98,6 +98,14 @@
   - 4.wireshark封包分析 == >檢視出user使用的瀏覽器版本號{Network101::NET4} [線上教材](./Linux/3_4_使用wireshark檢視出user使用的瀏覽器版本號.md) [[YOUYUBE錄影]](https://youtu.be/GnufKfXOSG4)
 
 # 第二天上課時程 A3_Python程式與資安應用入門 
+- 學習步驟
+  - 早上
+    - 依據自己的學習進度完成Python快速上手的課程學習
+    - 完成SecurityFocus 2023平台上的Python101題目
+  - 下午
+    - 依據自己的喜好選擇 有興趣的主題學習
+    - 推薦可以先看完有👍記號的內容
+    - 要參加暑假 Summer camp的同學一定要學好 3.使用Python求解PPC(Professional Program Code)問題
 ## 早上: Python 快速上手
 - 1.開發環境與基本輸入與輸出 
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片]](https://youtu.be/9Doo0hgbpow)
@@ -114,12 +122,12 @@
 - 1.使用Python求解編碼與解碼問題
   - 👍使用Python程式與內建函數進行ASCII的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/0Tr-X0Lpi7g)
   - 👍使用Python標準函式庫進行BASE64的編碼與解碼 [[YOUTUBE教學影片]](https://youtu.be/z2jxjkl5X-4) 
-  - 編碼102_Internetwache CTF 2016_The hidden message [解答](./Python/B_Python資安應用入門/2_Python解碼器/3_編碼102_Internetwache CTF 2016 _ The hidden message.md)
-  - 編碼102:SECCON CTF 2014: Easy Cipher [解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
+  - 編碼102_Internetwache CTF 2016_The hidden message [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/3_編碼102_Internetwache CTF 2016 _ The hidden message.md)
+  - 編碼102:SECCON CTF 2014: Easy Cipher [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON CTF 2014_ Easy Cipher.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
-  - 【自行完成】{Crypto102::CRY11_PythonCrypto} [解答]()
-  - 👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [解答]()
-  - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/3_Python%E5%8F%A4%E5%85%B8%E7%A0%B4%E5%AF%86%E6%B3%95/2_%E4%BD%BF%E7%94%A8Python%E6%B1%82%E8%A7%A3affine-cipher.md)
+  - 【自行完成】{Crypto102::CRY11_PythonCrypto} 
+  -  👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [線上解答]()
+  - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [線上解答](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/3_Python%E5%8F%A4%E5%85%B8%E7%A0%B4%E5%AF%86%E6%B3%95/2_%E4%BD%BF%E7%94%A8Python%E6%B1%82%E8%A7%A3affine-cipher.md)
 - 3.使用Python求解PPC(Professional Program Code)問題
   - 👍PPC(Professional Program Code)之使用 nc 遠端連線{PPC101::PPC1_hello world} [線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/4_Python%20%20PPC%E5%AF%A6%E6%88%B0%E6%8A%80/PPC(Professional%20Program%20Code)%E4%B9%8B%E4%BD%BF%E7%94%A8%20nc%20%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%7BPPC101::PPC1_hello%20world%7D.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
   - 👍PPC(Professional Program Code)之pwntools快速入門與示範解題{PPC101::PPC2_3rd} [線上教材](./Python/B_Python資安應用入門/4_Python%20%20PPC實戰技/PPC(Professional%20Program%20Code)%E4%B9%8Bpwntools%E5%BF%AB%E9%80%9F%E5%85%A5%E9%96%80%E8%88%87%E7%A4%BA%E7%AF%84%E8%A7%A3%E9%A1%8C.md) [[教學影片]](https://youtu.be/XVRYjrbBYw4)
