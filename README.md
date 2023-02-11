@@ -49,7 +49,7 @@
   - 【自行完成】{編碼101:Morse code}
   - 【自行完成】{編碼101:第一堂base64編碼}
   - 【自行完成】{編碼101:第一堂Unicode}
-  - BASE64原理說明 [[中文Wiki的說明]](https://zh.wikipedia.org/wiki/Base64)
+  - BASE64原理說明 [[中文Wiki的說明]](https://zh.wikipedia.org/wiki/Base64) [[YOUYUBE教學錄影]](https://youtu.be/lFUb0cmHo1c)
   - 【自行完成】Base32原理說明
 - 古典密碼學之破密分析 == > Crypto101  
   - 善用線上工具進行破密分析
