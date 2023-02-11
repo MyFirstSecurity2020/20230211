@@ -116,6 +116,7 @@
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片]](https://youtu.be/zCfVPuJWRg8) 
 - 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [YOUTUBE預錄影片]() 
   - 【自行完成】完成Python101的IF題目
+  - 【自行完成】完成Python101的`IF幸福企業的獎金制度`
 - 4.廻圈(loop) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片]](https://youtu.be/12I7eNHQpgY)
   - 【自行完成】完成Python101的`FOR your summation`題目 
 - 5.函數(function) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片]](https://youtu.be/tRtsxZ73LVk) 
