@@ -113,12 +113,7 @@
 ## 早上: Python 快速上手
 - 1.開發環境與基本輸入與輸出 
   - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片(35分鐘左右)]](https://youtu.be/9Doo0hgbpow)
-    - 在Windows 平台開發 python程式:使用notepad++開發  [下載這個notepad++版本Download 64-bit x64](https://notepad-plus-plus.org/downloads/v8.4.9/)
-      - 以後再自學 使用visual studio code開發python程式 [visual studio code下載點](https://code.visualstudio.com/download) 
-    - 在Linux 平台開發 python程式:使用gedit或nano或vim開發
-      - 以後再自學 使用linux版的visual studio code開發python程式 [visual studio code下載點](https://code.visualstudio.com/download)  
-    - 在Google Colab雲端平台開發 python程式 [請先登入Google 帳號後再點選登入Google Colab](https://colab.research.google.com/)
-    - 使用online python平台  [Online Python - IDE, Editor, Compiler, Interpreter](https://www.online-python.com/) [[YOUTUBE教學影片]]()
+    - 使用不同平台開發python程式(./Python/Python開發環境.md)
   - 基本輸入與輸出 格式化輸出 [線上教材](./Python/A_Python程式入門/1_基本輸入與輸出.md) [[YOUTUBE教學影片(使用Google Colab)(15分鐘左右)]](https://youtu.be/3Uy-hgPru8Y) 
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片(47分鐘左右)]](https://youtu.be/zCfVPuJWRg8) 
 - 3.python決策與選擇結構 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學影片]]() 
