@@ -1,7 +1,7 @@
 # SecurityFoscusOnline2023 上課資訊
 
 # 上課所使用的平台
-- [立馬點選加入線上上課平台(Google Meet)上課去]([https://meet.google.com/anw-awov-hsw](https://meet.google.com/xsc-ihqm-mhz))
+- [立馬點選加入線上上課平台(Google Meet)上課去](https://meet.google.com/anw-awov-hsw)
   - 8:50開放,9:20關閉連結(遲到太久 ==>就不要參加| 以後會更嚴格: 遲到==>就不要參加)
   - 參與的觀摩教師可自行安排登入時間,也請聯繫小編
 - [CTF平台解題(平常沒開放~只有上課期間才會開放)](https://120.114.62.209/)
