@@ -95,7 +95,7 @@
   - 2.網路鑑識分析第一步:使用file | strings | grep 指令進行分析[解答](./Linux/3_2_網路鑑識分析第一步_使用linux基本指令進行分析.md)
     - Network101::NET1
     - Network101::NET2
-  - 3.wireshark封包分析 == >HTTP Basic Authentication(認證)封包{Network101::NET3} [解答](./Linux/3_3_使用wireshark分析HTTP Basic Authentication(認證)封包.md) [[YOUTUBE教學影片]](https://youtu.be/IH3Q7jdDX5s)
+  - 3.wireshark封包分析 == >HTTP Basic Authentication(認證)封包{Network101::NET3} [解答](./Linux/3_3_使用wireshark分析HTTPBasicAuthentication.md) [[YOUTUBE教學影片]](https://youtu.be/IH3Q7jdDX5s)
   - 4.wireshark封包分析 == >檢視出user使用的瀏覽器版本號{Network101::NET4} [解答](./Linux/3_4_使用wireshark檢視出user使用的瀏覽器版本號.md) [[YOUYUBE錄影]](https://youtu.be/GnufKfXOSG4)
 
 # 第二天上課時程 A3_Python程式與資安應用入門 
