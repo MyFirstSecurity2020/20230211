@@ -16,14 +16,11 @@ C C++ C#
 雙向判斷式（if⋯else）: 二選一｜一定要選的
 多向判斷式（if⋯elif⋯else）: 多選一｜一定要選的
 ```
-```
-PS: Python沒有switch
-https://www.w3schools.com/python/python_conditions.asp
-```
-```
-教學重點:教學要教最簡單的範例,要快速教完
-作業要出很難的 磨出學生的程式力
-```
+- Python沒有switch
+- https://www.w3schools.com/python/python_conditions.asp
+- python switch實作
+  - 在 Python 3.10 中使用 match 和 case 關鍵字實現 Switch 語句[Python Switch Statement – Switch Case Example](https://www.freecodecamp.org/chinese/news/python-switch-statement-switch-case-example/)
+
 # [1]if ==>底下程式輸出為何?
 ```
 a = 33
