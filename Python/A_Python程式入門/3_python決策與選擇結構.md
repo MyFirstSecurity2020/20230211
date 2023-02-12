@@ -1,8 +1,7 @@
 ### python決策與選擇結構(SELECTION /DECISION) [YOUTUBE錄影教學](https://youtu.be/Qp2rnckGlAg)
-```
-程式語言都會有的決策與選擇結構(SELECTION /DECISION)
-C C++ C# 
-```
+
+- 程式語言都會有的決策與選擇結構(SELECTION /DECISION):C C++ C# 
+
 ```
 [1]if
 [2]if ...elsif
@@ -16,12 +15,13 @@ C C++ C#
 雙向判斷式（if⋯else）: 二選一｜一定要選的
 多向判斷式（if⋯elif⋯else）: 多選一｜一定要選的
 ```
-- Python沒有switch
-- https://www.w3schools.com/python/python_conditions.asp
+- Python沒有switch(Python 3.10之前)
 - python switch實作
   - 在 Python 3.10 中使用 match 和 case 關鍵字實現 Switch 語句[Python Switch Statement – Switch Case Example](https://www.freecodecamp.org/chinese/news/python-switch-statement-switch-case-example/)
+  - [4 Ways to implement Python Switch Case Statement](https://flexiple.com/python/python-switch-case/)
 
 # [1]if ==>底下程式輸出為何?
+- 資料來源 : https://www.w3schools.com/python/python_conditions.asp
 ```
 a = 33
 b = 200
