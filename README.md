@@ -122,9 +122,9 @@
 - 3.python決策與選擇結構 [線上教材](./Python/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學影片(9分鐘左右)]](https://youtu.be/qUljGgQj2Tk) 
   - 【自行完成】完成Python101的`IF`題目
   - 【自行完成】完成Python101的`IF幸福企業的獎金制度`
-- 4.廻圈(loop) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片(19分鐘左右)]](https://youtu.be/12I7eNHQpgY)
+- 4.廻圈(loop) [線上教材](./Python/A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片(19分鐘左右)]](https://youtu.be/12I7eNHQpgY)
   - 【自行完成】完成Python101的`FOR your summation`題目 
-- 5.函數(function) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片(24分鐘左右)]](https://youtu.be/tRtsxZ73LVk) 
+- 5.函數(function) [線上教材](./Python/A3_Python程式與資安應用入門/A_Python程式入門/5_函數.md) [[YOUTUBE教學影片(24分鐘左右)]](https://youtu.be/tRtsxZ73LVk) 
   - 【自行完成】完成Python101的`黃金比例與費氏數列`題目
   - 【自行完成】完成Python101的`函數的虛擬碼實作`題目
 
