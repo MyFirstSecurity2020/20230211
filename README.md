@@ -63,14 +63,14 @@
   - 【頻率分析法】的破密技術{Crypto101::CRY6}
   - 【自行完成】{Crypto101::CRY7_Rail Fence Cipher}
   - 【自行完成】{Crypto101::CRY8_ROT47}
-## 下午 A2_Linux資安技術入門
-- 預先作業
-  - 首先完成你的 [github](https://github.com/) 申請
-  - 在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
-  - 匯入你要用的linux  [YOUTUBE教學影片](https://youtu.be/GTpQR7fZcwE)
-  - 資料下載點(請先下載這些龐大的系統)
+## 下午 A2_Linux資安技術入門 本課程使用Kali Linux進行
+- 預先作業:本課程使用虛擬機匯入Kali Linux進行教學
+  - 步驟1:在你的電腦下載 [virtual box](https://www.virtualbox.org/wiki/Downloads) 並安裝完成 [Virtualbox安裝:YOUTUBE影片](https://youtu.be/FC0CX71aGnc)
+  - 步驟2:點選資料下載點, 下載這些龐大的系統
     - Kali Linux [下載點](https://drive.google.com/file/d/1m620Z7KAOSUOLdFH92FYLE2NINb-vJsn/view?usp=sharing)
     - Python會用到的Ubuntu Linux 18.04 LTS(已安裝好pwntools)  [下載點](https://drive.google.com/file/d/1aP-qCFP6jKsGYXtKy9ahwZleQSENEi7C/view?usp=sharing)
+  - 步驟3:匯入你要用的linux  [[YOUTUBE教學錄影]](https://youtu.be/GTpQR7fZcwE)
+- 額外預先作業:申請你的 [github](https://github.com/) 
 - 學習LINUX
   - 使用Google Colab
   - 連線到LINUX CTF去學習
