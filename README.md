@@ -112,10 +112,10 @@
 
 ## 早上: Python 快速上手
 - 1.開發環境與基本輸入與輸出 
-  - python開發環境 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片(35分鐘左右)]](https://youtu.be/9Doo0hgbpow)
+  - python開發環境 [線上教材](./Python/A_Python程式入門/0_python開發環境.md) [[YOUTUBE教學影片(35分鐘左右)]](https://youtu.be/9Doo0hgbpow)
     - 【延伸教材】[使用不同平台開發python程式](./Python/Python開發環境.md)
   - 基本輸入與輸出 格式化輸出 [線上教材](./Python/A_Python程式入門/1_基本輸入與輸出.md) [[YOUTUBE教學影片(使用Google Colab)(15分鐘左右)]](https://youtu.be/3Uy-hgPru8Y) 
-- 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片(47分鐘左右)]](https://youtu.be/zCfVPuJWRg8) 
+- 2.Python資料型態(data Type)及其各種運算 [線上教材](./Python/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片(47分鐘左右)]](https://youtu.be/zCfVPuJWRg8) 
   - 【延伸教材】字串(string)資料型態的各種運算
   - 【延伸教材】串列|列表(list)資料型態的各種運算
   - 【延伸教材】字典(dictionary)資料型態的各種運算
