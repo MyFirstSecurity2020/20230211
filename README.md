@@ -116,7 +116,7 @@
     - 【延伸教材】[使用不同平台開發python程式](./Python/Python開發環境.md)
   - 基本輸入與輸出 格式化輸出 [線上教材](./Python/A_Python程式入門/1_基本輸入與輸出.md) [[YOUTUBE教學影片(使用Google Colab)(15分鐘左右)]](https://youtu.be/3Uy-hgPru8Y) 
 - 2.Python資料型態(data Type)及其各種運算 [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/2_資料型態及其運算.md)  [[YOUTUBE教學影片(47分鐘左右)]](https://youtu.be/zCfVPuJWRg8) 
-- 3.python決策與選擇結構 [線上教材](./Python/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學影片]]() 
+- 3.python決策與選擇結構 [線上教材](./Python/A_Python程式入門/3_python決策與選擇結構.md) [[YOUTUBE教學影片(9分鐘左右)]](https://youtu.be/qUljGgQj2Tk) 
   - 【自行完成】完成Python101的`IF`題目
   - 【自行完成】完成Python101的`IF幸福企業的獎金制度`
 - 4.廻圈(loop) [線上教材](./A3_Python程式與資安應用入門/A_Python程式入門/4_廻圈loop.md) [[YOUTUBE教學影片(19分鐘左右)]](https://youtu.be/12I7eNHQpgY)
