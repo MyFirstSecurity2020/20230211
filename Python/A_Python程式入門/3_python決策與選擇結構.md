@@ -1,4 +1,4 @@
-### python決策與選擇結構(SELECTION /DECISION) [YOUTUBE錄影教學](https://youtu.be/Qp2rnckGlAg)
+### python決策與選擇結構(SELECTION /DECISION) 
 
 - 程式語言都會有的決策與選擇結構(SELECTION /DECISION):C C++ C# 
 
