@@ -3,18 +3,13 @@
 - 程式語言都會有的決策與選擇結構(SELECTION /DECISION):C C++ C# 
 
 ```
-[1]if
-[2]if ...elsif
-[3]if ...else
-[4]if ...elsif ...else
+[1]if(判斷條件) : 是非題｜對的才要做
+[2]if(判斷條件) ...elsif(判斷條件)
+[3]if(判斷條件) ...else : 二選一
+[4]if(判斷條件)...elsif(判斷條件) ...else: 多選一
 [5]各種判斷條件==> 善用 AND   OR
-[6]範例
 ```
-```
-單向判斷式（if⋯）: 是非題｜對的才要做
-雙向判斷式（if⋯else）: 二選一｜一定要選的
-多向判斷式（if⋯elif⋯else）: 多選一｜一定要選的
-```
+
 - Python沒有switch(Python 3.10之前)
 - python switch實作
   - 在 Python 3.10 中使用 match 和 case 關鍵字實現 Switch 語句[Python Switch Statement – Switch Case Example](https://www.freecodecamp.org/chinese/news/python-switch-statement-switch-case-example/)
@@ -104,6 +99,4 @@ else:
   print("{0} 不是閏年".format(year))
 ```
 
-
-## 完成Python101:IF 潤年
 
