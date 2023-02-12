@@ -136,7 +136,7 @@
   - 編碼102:SECCON CTF 2014: Easy Cipher [線上解答](./Python/B_Python資安應用入門/2_Python解碼器/4_編碼102_SECCON%20CTF%202014_%20Easy%20Cipher.md)
 - 2.使用Python求解古典密碼破密分析問題 Crypto102
   - 【自行完成】{Crypto102::CRY11_PythonCrypto} 
-  -  👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [線上解答](./Python/B_Python資安應用入門/3_Python古典破密法/1_使用Python求解變形caesar密碼.md)
+  -  👍使用Python求解變形caesar密碼{Crypto102::CRY12_變形caesar密碼} [線上解答](./Python/B_Python資安應用入門/3_Python古典破密法/1_使用Python求解變形caesar密碼.md) [[教學影片]](https://youtu.be/LL2vby43I5w)
   - 使用Python求解affine-cipher{Crypto102::CRY13_affine-cipher} [線上解答](./Python/B_Python資安應用入門/3_Python古典破密法/2_使用Python求解affine-cipher.md)
 - 3.使用Python求解PPC(Professional Program Code)問題
   - 👍PPC(Professional Program Code)之使用 nc 遠端連線{PPC101::PPC1_hello world} [線上教材](https://github.com/MyFirstSecurity2020/SecurityFoscusOnline2023/blob/main/A3_Python%E7%A8%8B%E5%BC%8F%E8%88%87%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/B_Python%E8%B3%87%E5%AE%89%E6%87%89%E7%94%A8%E5%85%A5%E9%96%80/4_Python%20%20PPC%E5%AF%A6%E6%88%B0%E6%8A%80/PPC(Professional%20Program%20Code)%E4%B9%8B%E4%BD%BF%E7%94%A8%20nc%20%E9%81%A0%E7%AB%AF%E9%80%A3%E7%B7%9A%7BPPC101::PPC1_hello%20world%7D.md)  [[教學影片]](https://youtu.be/zJF4LBBHHrE)
